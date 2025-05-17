@@ -10,7 +10,7 @@ st.markdown(
     """
     <style>
     .stApp {
-        background-image: url("https://images.unsplash.com/photo-1603791440384-56cd371ee9a7?ixlib=rb-4.0.3&auto=format&fit=crop&w=1950&q=80");
+        background-image: url("https://stock.adobe.com/in/search?k=binoculars+lens&asset_id=1146771964?ixlib=rb-4.0.3&auto=format&fit=crop&w=1950&q=80");
         background-size: cover;
         background-attachment: fixed;
         background-position: center;
