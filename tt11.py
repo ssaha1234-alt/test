@@ -84,15 +84,15 @@ SEARCH_SITES = {
     "Glassdoor": "site:glassdoor.com",
    # "Monster": "site:monster.com",
    # "ZipRecruiter": "site:ziprecruiter.com",
-    "crunchbase": "site:crunchbase.com",
+    #"crunchbase": "site:crunchbase.com",
     #"shinebiz": "site:shine.com",
     "monsterindia": "site:monsterindia.com",
     #"kornferry": "site:kornferry.com",
     #"Randstad": "site:randstad.in",
     #"ALP": "site:alp.consulting",
     #"ABC": "site:www.abcconsultants.in",
-    "git": "site:github.com",
-    "stackoverflow": "site:stackoverflow.com/users",
+    #"git": "site:github.com",
+    #"stackoverflow": "site:stackoverflow.com/users",
     "Twitter": "site:twitter.com"
 }
 
