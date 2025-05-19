@@ -1,3 +1,4 @@
 streamlit
-googlesearch-python
 pandas
+googlesearch-python
+Pillow
