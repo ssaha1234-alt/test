@@ -78,7 +78,22 @@ st.write("Enter your search keywords and I’ll find relevant professional or ac
 SEARCH_SITES = {
     "Google Scholar": "site:scholar.google.com",
     "ResearchGate": "site:researchgate.net",
-    "LinkedIn": "site:linkedin.com/in"
+    "LinkedIn": "site:linkedin.com/in",
+     "Naukri": "site:naukri.com",
+    "Indeed": "site:indeed.com",
+    "Glassdoor": "site:glassdoor.com",
+    "Monster": "site:monster.com",
+    "ZipRecruiter": "site:ziprecruiter.com",
+    "crunchbase": "site:crunchbase.com",
+    "shinebiz": "site:shine.com",
+    "monsterindia": "site:monsterindia.com",
+    "kornferry": "site:kornferry.com",
+    "Randstad": "site:randstad.in",
+    "ALP": "site:alp.consulting",
+    "ABC": "site:www.abcconsultants.in",
+    "git": "site:github.com",
+    "stackoverflow": "site:stackoverflow.com/users",
+    "Twitter": "site:twitter.com"
 }
 
 # --- Inputs ---
