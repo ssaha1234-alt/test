@@ -86,7 +86,7 @@ SEARCH_SITES = {
    # "ZipRecruiter": "site:ziprecruiter.com",
     #"crunchbase": "site:crunchbase.com",
     #"shinebiz": "site:shine.com",
-    "monsterindia": "site:monsterindia.com",
+   # "monsterindia": "site:monsterindia.com",
     #"kornferry": "site:kornferry.com",
     #"Randstad": "site:randstad.in",
     #"ALP": "site:alp.consulting",
