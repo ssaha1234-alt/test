@@ -107,7 +107,7 @@ if st.button("Start Search") and query.strip():
     results = []
     for source, site_filter in SEARCH_SITES.items():
         full_query = f"{query} {site_filter}"
-        st.write(f"🔎 Searching: `{full_query}`")
+        # st.write(f"🔎 Searching: `{full_query}`")
 
         try:
             urls = list(search(full_query, num_results=num_results))
