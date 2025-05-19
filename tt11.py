@@ -15,7 +15,7 @@ def image_to_base64(img):
     return base64.b64encode(buffered.getvalue()).decode()
 
 # --- Load and convert user-uploaded image ---
-img = Image.open("thumbnail_PHOTO-2025-05-19-14-38-12.jpg").resize((300, 300))
+img = Image.open("image/thumbnail_PHOTO-2025-05-19-14-38-12.jpg").resize((300, 300))
 img_base64 = image_to_base64(img)
 
 # --- Custom CSS Styling ---
