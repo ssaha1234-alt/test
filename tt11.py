@@ -121,8 +121,8 @@ if st.button("Start Search") and query.strip():
     if results:
         df = pd.DataFrame(results)
         st.success(f"✅ Found {len(df)} results.")
-        # st.dataframe(df)
-        st.dataframe(df, use_container_width=True)
+        st.dataframe(df)
+        # st.dataframe(df, use_container_width=True)
 
         # --- Download ---
         csv = df.to_csv(index=False).encode("utf-8")
