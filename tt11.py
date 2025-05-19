@@ -76,8 +76,8 @@ st.write("Enter your search keywords and I’ll find relevant professional or ac
 
 # --- Search config ---
 SEARCH_SITES = {
-    "Google Scholar": "site:scholar.google.com",
-    "ResearchGate": "site:researchgate.net",
+    #"Google Scholar": "site:scholar.google.com",
+    #"ResearchGate": "site:researchgate.net",
     "LinkedIn": "site:linkedin.com/in",
      #"Naukri": "site:naukri.com",
     #"Indeed": "site:indeed.com",
