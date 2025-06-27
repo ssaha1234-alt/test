@@ -1,7 +1,7 @@
 import requests
 
 OPENROUTER_API_KEY = "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"  # Replace with your actual key
-MODEL = "mistralai/mixtral-8x7b"  # Or another model from OpenRouter
+MODEL = "google/gemma-7b-it"  # Or another model from OpenRouter
 
 def generate_ad(content):
     headers = {
