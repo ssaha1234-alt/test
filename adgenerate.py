@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 from bs4 import BeautifulSoup
-from openrouter_api import generate_ad
+from Routerapi import generate_ad
 
 st.set_page_config(page_title="AI Marketing Ad Generator", layout="centered")
 
