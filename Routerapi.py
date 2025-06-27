@@ -1,6 +1,6 @@
 import requests
 
-OPENROUTER_API_KEY = "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"  # Replace with your actual key
+OPENROUTER_API_KEY = "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"  # Replace with your actual key
 MODEL = "google/gemma-7b-it"  # Or another model from OpenRouter
 
 def generate_ad(content):
