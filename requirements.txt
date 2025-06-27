@@ -2,4 +2,4 @@ streamlit
 pandas
 googlesearch-python
 Pillow
-openrouter_api
+
