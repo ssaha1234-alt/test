@@ -1,11 +1,11 @@
 import requests
 
-OPENROUTER_API_KEY = "your_openrouter_api_key"  # Replace with your actual key
+OPENROUTER_API_KEY = "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"  # Replace with your actual key
 MODEL = "openai/gpt-3.5-turbo"  # Or another model from OpenRouter
 
 def generate_ad(content):
     headers = {
-        "Authorization": f"Bearer {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}",
+        "Authorization": f"Bearer {OPENROUTER_API_KEY}",
         "Content-Type": "application/json"
     }
 
